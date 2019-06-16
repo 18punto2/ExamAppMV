@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamAppMV</string>
+    <string name="hint_job">Ingrese job</string>
+    <string name="text_Buscar">BUSCAR</string>
+</resources>
